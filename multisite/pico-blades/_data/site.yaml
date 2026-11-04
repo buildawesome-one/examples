@@ -1,4 +1,4 @@
-favicon: https://blades.ninja/favicon.ico
+favicon: https://blades.dev/favicon.ico
 styles:
   - https://cdn.jsdelivr.net/npm/@anyblades/blades@2/css/blades.min.css
   - https://cdn.jsdelivr.net/npm/@anyblades/blades@2/css/blades.ninja.min.css
