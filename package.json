@@ -1,20 +1,33 @@
 {
   "private": true,
-  "name": "@buildawesome.one/examples.monorepo",
+  "name": "@buildawesome.one/examples",
   "version": "1.4.0",
   "license": "MIT",
   "type": "module",
   "workspaces": [
-    "multisite/",
     "tailwind/"
   ],
   "dependencies": {
     "@awesome.me/buildawesome": "^4.0.0-0",
     "@buildawesome.one/config": "^1.4.1-0"
   },
+  "--- DEV ONLY": "Z-A",
+  "scripts": {
+    "precli": "[ -t 1 ] && clear || true",
+    "cli": "BA_OPTIONS=\"--input ${SITE:-pico-blades} --config node_modules/@buildawesome.one/config/buildawesome.config.js\" npm -C .cli/ run",
+    "start": "npm run cli -- start",
+    "stage": "npm run cli -- stage",
+    "build": "npm run cli -- build"
+  },
   "devDependencies": {
     "prettier-plugin-jinja-template": "^2.1.0",
     "serve": "^14.2.5"
+  },
+  "--- SITE GLOBALS": "A-Z",
+  "site": {
+    "base": "https://micro.build.blades.ninja",
+    "footer": "Powered by <object data='https://build.blades.ninja/gh.svg' class='dark-auto'></object>",
+    "title": "Multisite Starter"
   },
   "---": "---"
 }
