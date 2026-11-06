@@ -25,9 +25,9 @@
   },
   "--- SITE GLOBALS": "A-Z",
   "site": {
-    "base": "https://micro.build.blades.ninja",
-    "footer": "Powered by <object data='https://build.blades.ninja/gh.svg' class='dark-auto'></object>",
-    "title": "Multisite Starter"
+    "base": "https://examples.buildawesome.one/",
+    "footer": "Powered by <object data='https://buildawesome.one/gh.svg' class='dark-auto'></object>",
+    "title": "11ty / Build Awesome One¹ Examples"
   },
   "---": "---"
 }

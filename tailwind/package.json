@@ -16,14 +16,14 @@
   },
   "--- SITE GLOBALS": "---",
   "site": {
-    "base": "https://tw.build.blades.ninja",
+    "base": "https://tailwind.buildawesome.one/",
     "body_attrs": "class='prose lg:prose-xl xl:prose-2xl'",
     "dir": "./tailwind/",
-    "footer": "Powered by <object data='https://build.blades.ninja/gh.svg' class='dark-auto'></object>",
+    "footer": "Powered by <object data='https://buildawesome.one/gh.svg' class='dark-auto'></object>",
     "styles": [
       "/styles.css"
     ],
-    "title": "Tailwind Starter"
+    "title": "11ty / Build Awesome One¹ + Tailwind"
   },
   "---": "---"
 }

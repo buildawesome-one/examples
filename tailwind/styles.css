@@ -1,6 +1,5 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
-@import "@anyblades/blades/standalone";
 
 /* Custom styles go below */
 body {
