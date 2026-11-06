@@ -6,7 +6,6 @@
   "type": "module",
   "workspaces": [
     "multisite/",
-    "og-images/",
     "tailwind/"
   ],
   "dependencies": {
