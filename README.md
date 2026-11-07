@@ -7,7 +7,7 @@ tags: [11ty, buildawesome, micro, starter]
 
 <!-- to copy-paste w/o formatting use any plain text input field, i.e. browser address bar -->
 
-Example starters showcasing [Build Awesome One¹](//buildawesome.one/) kit for:
+4-in-1 example multi-starter showcasing [Build Awesome One¹](//buildawesome.one/) kit for:
 
 <figure><!-- <img src> breaks shields w/ emojis on GitHub, but ![]() works (urlencoding?) -->
 
