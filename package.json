@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "prettier-plugin-jinja-template": "^2.1.0",
-    "serve": "^14.2.6"
+    "serve": "^14.2.7"
   },
   "--- SITE GLOBALS": "A-Z",
   "site": {
