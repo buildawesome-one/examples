@@ -5,6 +5,8 @@ tags: [11ty, buildawesome, micro, starter]
 
 # [One¹](//buildawesome.one/) Examples
 
+![](https://trendshift.io/api/badge/trendshift/repositories/78216/daily?language=Nunjucks)
+
 <!-- to copy-paste w/o formatting use any plain text input field, i.e. browser address bar -->
 
 4-in-1 example multi-starter showcasing [Build Awesome One¹](//buildawesome.one/) kit for:
